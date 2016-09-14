@@ -27,6 +27,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	background: green;
 }
 ol, ul {
 	list-style: none;
@@ -47,3 +48,7 @@ table {
 /*----------------- CSS RESET ------------------*/
 
 /*Your main CSS should go here*/
+
+h1 {
+	color: tomato;
+}

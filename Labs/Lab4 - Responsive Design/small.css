@@ -1,0 +1,7 @@
+/*Your mobile targeted css should go here*/
+/*@media screen and (max-width: 500px) {}*/
+
+body {
+    line-height: 1;
+    background: yellow;
+}
